@@ -1,0 +1,35 @@
+.mainContainer{
+    padding: 50px;
+    margin-top: 10px;
+       
+}
+h2{
+    padding: 10px;
+    color:green;
+}
+p{
+    text-align: left;
+}
+button{
+ margin-top: 30px;
+
+}
+.tableContainer
+{
+    margin-top: 50px;
+  
+}
+thead{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    align-items: center;
+}
+tbody{
+    text-align: center;
+}
+.radioContainer
+{
+    padding: 10px;
+   text-align: center;
+}
